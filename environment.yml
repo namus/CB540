@@ -11,3 +11,4 @@ dependencies:
   - mdanalysis
   - MDAnalysisTests
   - biopython
+  - nglview
