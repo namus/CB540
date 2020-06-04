@@ -1,0 +1,13 @@
+name: suman
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - numba
+  - plotly
+  - mdanalysis
+  - MDAnalysisTests
+  - biopython
